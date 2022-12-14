@@ -22,5 +22,7 @@
 
 ## Dia 2 - Mão na passa usando SQL
 
+- SELECT, FROM, WHERE
+- usando funcoes datediff, year
 
 
